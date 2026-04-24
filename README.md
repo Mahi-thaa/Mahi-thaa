@@ -1,6 +1,6 @@
 ## Hey there 👋
 # 💫 About Me:
-Software Developer with strong skills in Core Java,  backend development. Experienced in building REST APIs, full-stack applications, and database-driven system.I pick up new<br>technologies on the fly and have shipped real features in team environments, from REST APIs to ML-integrated systems
+Software Developer with strong skills in Core Java,  backend development. Experienced in building REST APIs, full-stack applications, and database-driven system.I pick up new technologies on the fly and have shipped real features in team environments, from REST APIs to ML-integrated systems
 
 
 ## 🌐 Socials:
